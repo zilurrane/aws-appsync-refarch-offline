@@ -85,6 +85,11 @@ And now follow the next instructions to run both the Backend and Frontend.
 
 ### Backend
 
+npm install -g @aws-amplify/cli
+
+amplify configure
+
+
 Provisioning the backend is very simple with the Amplify CLI. Just run the following commands and make sure you have access to an AWS account:
 
 ```
